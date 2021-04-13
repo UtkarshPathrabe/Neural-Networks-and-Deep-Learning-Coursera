@@ -1,8 +1,0 @@
-Quiz
-====  
-
-Question
---------  
-
-True or false? As explained in this lecture, every input layer feature is interconnected with every hidden layer feature.  
-Answer: `True`  
